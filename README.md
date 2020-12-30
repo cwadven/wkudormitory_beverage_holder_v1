@@ -20,7 +20,7 @@
 
 ## 3D 모형
 
-[고정틀 stl 다운로드 링크](https://github.com/cwadven/wkudormitory_beverage_holder_v1/blob/master/beverage_holer.stl "고정틀 stl 다운로드 링크")
+[고정틀 stl 다운로드 링크](https://github.com/cwadven/wkudormitory_beverage_holder_v1/blob/master/beverage_holder.stl "고정틀 stl 다운로드 링크")
 
 ## 설계자
 
