@@ -14,6 +14,14 @@
 <img alt="beverage" src="https://github.com/cwadven/wkudormitory_beverage_holder_v1/blob/master/assets/seq1.PNG"/>
 </p>
 
+## 제작 과정 및 설명
+
+[간단 제작과정 pptx 설명](https://github.com/cwadven/wkudormitory_beverage_holder_v1/blob/master/beverage_holer.pptx "간단 제작과정 pptx 설명")
+
+## 3D 모형
+
+[고정틀 stl 다운로드 링크](https://github.com/cwadven/wkudormitory_beverage_holder_v1/blob/master/beverage_holer.stl "고정틀 stl 다운로드 링크")
+
 ## 설계자
 
 **👤 이창우**
